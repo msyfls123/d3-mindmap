@@ -29,3 +29,9 @@
   https://primetwig.github.io/react-nestable/dist/example/
 </details>
 
+<details>
+  <summary>How to rectangle select elements?</summary>
+  https://github.com/unclecheese/react-selectable
+  
+  https://github.com/remigallego/react-rectangle-selection
+</details>
